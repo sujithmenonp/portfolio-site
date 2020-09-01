@@ -1,0 +1,15 @@
+.site-header {
+    background-color: aqua;
+    color: wheat;
+    height: 100vh;
+}
+body{
+ margin: 0px;
+}
+.profile-pic{
+    border-radius:50%;
+    
+}
+.intro{
+    margin: 10px;
+}
