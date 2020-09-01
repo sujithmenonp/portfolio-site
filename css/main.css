@@ -1,7 +1,11 @@
 .site-header {
     background-color: aqua;
-    color: wheat;
+    color: white;
     height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
 body{
  margin: 0px;
