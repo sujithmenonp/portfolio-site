@@ -12,7 +12,8 @@ body{
 }
 .profile-pic{
     border-radius:50%;
-    
+    width: 400px;
+    height: 400px;
 }
 .intro{
     margin: 10px;
